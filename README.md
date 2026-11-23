@@ -4,8 +4,8 @@ Implémentation pédagogique de l'algorithme **K-Means sans `sklearn`**, réalis
 
 ## Contenu
 
-- `RenduTPNovembre.py` : implémentation et visualisation en 2D (fichier configuré sur `clustering_1.csv`).
-- `RenduTPNovembre 3d.py` : version prenant en charge les données 2D et 3D (fichier configuré sur `clustering_2.csv`).
+- `2DKmean.py` : implémentation et visualisation en 2D (fichier configuré sur `clustering_1.csv`).
+- `3Dand2DKmean.py` : version prenant en charge les données 2D et 3D (fichier configuré sur `clustering_2.csv`).
 
 ## Fonctionnement
 
