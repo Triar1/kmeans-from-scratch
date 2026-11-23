@@ -28,8 +28,8 @@ Placer les fichiers de données `clustering_0.csv`, `clustering_1.csv` et/ou `cl
 ## Exécution
 
 ```bash
-python RenduTPNovembre.py
-python "RenduTPNovembre 3d.py"
+python 2DKmean.py
+python "3Dand2DKmean.py"
 ```
 
 Modifier au besoin le nom du CSV et `N` en haut du script. Les graphiques sont affichés à chaque itération.
